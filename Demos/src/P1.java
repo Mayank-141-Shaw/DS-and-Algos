@@ -9,5 +9,6 @@ public class P1 {
 		for(i=0; i<9; i++) {
 			System.out.print(( start=start+prime[i] ) + " ");
 		}
+		
 	}
 }
